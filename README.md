@@ -1,4 +1,4 @@
-# 🚪 IoT Smart Door Lock
+# 🚪 RAKSH - 26 (IoT Smart Door Lock)
 
 An innovative, secure, and remote-controllable IoT-based smart door lock system built for modern access management. This project is designed as a hackathon submission, focusing on seamless hardware-software integration, real-time access monitoring, and user convenience.
 
