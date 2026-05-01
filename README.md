@@ -57,10 +57,6 @@ An innovative, secure, and remote-controllable IoT-based smart door lock system 
    npm run dev
    ```
 
-## 📸 Screenshots & Diagrams
-
-*(Add architectural diagrams, circuit schematics, and screenshots of your web dashboard here)*
-
 ## 🔮 Future Enhancements
 
 - **Biometric Integration:** Adding a capacitive fingerprint scanner.
