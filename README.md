@@ -66,4 +66,4 @@ An innovative, secure, and remote-controllable IoT-based smart door lock system 
 
 ## 🤝 Contributors
 
-- **Sudhanshu Naik** - [GitHub Profile](https://github.com/Sudhanshunaik)
+
